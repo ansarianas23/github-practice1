@@ -1,2 +1,2 @@
-# github-practice1
+# Github-practice1
 This is a git practice repository
